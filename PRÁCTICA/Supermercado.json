@@ -1,0 +1,133 @@
+{
+    "Supermercados": [
+        {
+            "nombre": "Aldi",
+            "direccion": "C/ de Sepúlveda, 115, 08015 Barcelona",
+            "geolocalización": "41°22'50.5\"N 2°09'32.7\"E\"",
+            "productos": [
+                {
+                    "nombre": "Atún rojo",
+                    "descripcion": "Pieza de atún rojo",
+                    "seccion": "Pescadería",
+                    "precioVta": 18.95,
+                    "unidades": 1,
+                    "unidad de medida": "gramos",
+                    "vigencia": "3 días en la nevera",
+                    "ofertas": "Bandeja atún cortado a lomos a 12.75",
+                    "producto habitual": true,
+                    "producto adquirido": false
+                },
+                {
+                    "nombre": "Salmorejo",
+                    "descripcion": "Salmorejo en botella",
+                    "seccion": "Neveras",
+                    "precioVta": 4.49,
+                    "unidades": 2,
+                    "unidad de medida": "litros",
+                    "vigencia": "5 días en la nevera una vez abierto",
+                    "ofertas": "2x1",
+                    "producto habitual": false,
+                    "producto adquirido": false
+                },
+                {
+                    "nombre": "Pizza",
+                    "descripcion": "Pizza de 4 quesos preparada",
+                    "seccion": "Congelados",
+                    "precioVta": 3.45,
+                    "unidades": 2,
+                    "unidad de medida": "gramos",
+                    "vigencia": "18/04/2023",
+                    "ofertas": "No hay oferta",
+                    "producto habitual": false,
+                    "producto adquirido": true
+                }
+            ]
+        },
+        {
+            "nombre": "Mercadona",
+            "direccion": "C/ de Calàbria, 129, 08015 Barcelona",
+            "geolocalización": "41°22'51.5\"N 2°09'12.0\"E\"",
+            "productos": [
+                {
+                    "nombre": "Hummus",
+                    "descripcion": "Hummus preparado en tarrina",
+                    "seccion": "Neveras",
+                    "precioVta": 1.10,
+                    "unidades": 1,
+                    "unidad de medida": "gramos",
+                    "vigencia": "2 días una vez abierto",
+                    "ofertas": "5% de dto.",
+                    "producto habitual": true,
+                    "producto adquirido": true
+                },
+                {
+                    "nombre": "Té chai",
+                    "descripcion": "Bolsitas de té chai en una caja",
+                    "seccion": "Despensa",
+                    "precioVta": 2.50,
+                    "unidades": 4,
+                    "unidad de medida": "gramos",
+                    "vigencia": "2 años",
+                    "ofertas": "No hay oferta",
+                    "producto habitual": true,
+                    "producto adquirido": false
+                },
+                {
+                    "nombre": "Pienso",
+                    "descripcion": "Bolsa de pienso para perro grande",
+                    "seccion": "Mascotas",
+                    "precioVta": 24.99,
+                    "unidades": 1,
+                    "unidad de medida": "kilogramos",
+                    "vigencia": "28/06/2023",
+                    "ofertas": "+10% de producto añadido gratis",
+                    "producto habitual": true,
+                    "producto adquirido": true
+                }
+            ]
+        },
+        {
+            "nombre": "Caprabo",
+            "direccion": "C/ de la Mare de Déu del Remei, 30, 08004 Barcelona",
+            "geolocalización": "41°22'22.8\"N 2°09'26.0\"E\"",
+            "productos": [
+                {
+                    "nombre": "Queso manchego",
+                    "descripcion": "Cuña de queso manchego",
+                    "seccion": "Charcutería",
+                    "precioVta": 3.27,
+                    "unidades": 1,
+                    "unidad de medida": "gramos",
+                    "vigencia": "10 días",
+                    "ofertas": "No hay oferta",
+                    "producto habitual": false,
+                    "producto adquirido": false
+                },
+                {
+                    "nombre": "Lentejas",
+                    "descripcion": "Bolsa de lentejas secas",
+                    "seccion": "Legumbres",
+                    "precioVta": 1.99,
+                    "unidades": 3,
+                    "unidad de medida": "gramos",
+                    "vigencia": "No caduca",
+                    "ofertas": "Tercera unidad a mitad de precio",
+                    "producto habitual": true,
+                    "producto adquirido": false
+                },
+                {
+                    "nombre": "Croissant",
+                    "descripcion": "Croissant hecho al momento",
+                    "seccion": "Horno",
+                    "precioVta": 2,
+                    "unidades": 5,
+                    "unidad de medida": "gramos",
+                    "vigencia": "5 días",
+                    "ofertas": "3x2",
+                    "producto habitual": false,
+                    "producto adquirido": true
+                }
+            ]
+        }
+    ]
+}

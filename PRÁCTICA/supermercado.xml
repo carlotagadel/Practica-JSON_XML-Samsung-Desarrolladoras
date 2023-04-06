@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Supermercado_ejemplo>
+    <nombre>Mercadona</nombre>
+    <direccion>C/ de Calàbria, 129, 08015 Barcelona</direccion>
+    <geolocalizacion>
+        <norte>41°22'51.5</norte>
+        <sur></sur>
+        <este>N 2°09'12.0</este>
+        <oeste></oeste>
+    </geolocalización>
+
+        <productos>
+            <nombre>Hummus</nombre>
+            <descripcion>Hummus preparado en tarrina</descripcion>
+            <seccion>Neveras</seccion>
+            <precioVta>1.1</precioVta>
+            <unidades>1</unidades>
+            <vigencia>2 días una vez abierto</vigencia>
+            <ofertas>5% de dto.</ofertas>
+            <unidad_de_medida>gramos</unidad_de_medida>
+            <producto_habitual>true</producto_habitual>
+            <producto_adquirido>true</producto_adquirido>
+        </productos>
+
+        <productos>
+            <nombre>Té chai</nombre>
+            <descripcion>Bolsitas de té chai en una caja</descripcion>
+            <seccion>Despensa</seccion>
+            <precioVta>2.5</precioVta>
+            <unidades>4</unidades>
+            <vigencia>2 años</vigencia>
+            <ofertas>No hay oferta</ofertas>
+            <unidad_de_medida>gramos</unidad_de_medida>
+            <producto_habitual>true</producto_habitual>
+            <producto_adquirido>false</producto_adquirido>
+        </productos>
+  
+        <productos>
+            <nombre>Pienso</nombre>
+            <descripcion>Bolsa de pienso para perro grande</descripcion>
+            <seccion>Mascotas</seccion>
+            <precioVta>24.99</precioVta>
+            <unidades>1</unidades>
+            <vigencia>28/06/2023</vigencia>
+            <ofertas>+10% de producto añadido gratis</ofertas>
+            <unidad_de_medida>kilogramos</unidad_de_medida>
+            <producto_habitual>true</producto_habitual>
+            <producto_adquirido>true</producto_adquirido>
+        </productos>
+</Supermercado_ejemplo>
